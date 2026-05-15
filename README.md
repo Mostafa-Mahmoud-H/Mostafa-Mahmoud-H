@@ -1,5 +1,3 @@
-<h1 align="center">Hi there, I'm Mostafa Mahmoud 👋</h1>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a0f1c&height=260&section=header&text=%E2%AC%A1%20Mostafa%20Mahmoud&fontSize=50&fontColor=00f2fe&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20ML%20System%20Builder%20•%20Data%20Scientist&descAlignY=58&descSize=20&fontFamily=Montserrat" width="100%"/>
 
 <p align="center">
