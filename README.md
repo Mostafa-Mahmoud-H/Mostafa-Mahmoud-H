@@ -1,174 +1,132 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<title>Mostafa Mahmoud | AI Engineer</title>
+<!-- ================= DARK STARTUP HERO ================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a0f1c&height=270&section=header&text=Mostafa%20Mahmoud&fontSize=56&fontColor=00f2fe&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20ML%20System%20Builder%20•%20Data%20Scientist&descAlignY=58&descSize=20" width="100%"/>
 
-<style>
-    body {
-        margin: 0;
-        font-family: "Segoe UI", Tahoma, sans-serif;
-        background-color: #0d1117;
-        color: #ffffff;
-    }
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=00F2FE&center=true&vCenter=true&width=780&lines=Building+Production+AI+Systems;ML+Engineering+%7C+NLP+%7C+Computer+Vision;From+Data+→+Models+→+Deployment;Internship-Ready+AI+Engineer" />
+</p>
 
-    h1, h2, h3 {
-        color: #00f2fe;
-    }
+---
 
-    section {
-        padding: 40px 10%;
-    }
+## 🧠 ABOUT ME (ENGINEERING MINDSET)
 
-    .center {
-        text-align: center;
-    }
+> I don’t just build models — I build **AI systems that ship to production**.
 
-    .card {
-        background: #111827;
-        padding: 20px;
-        border-radius: 12px;
-        margin: 15px 0;
-        box-shadow: 0 0 20px rgba(0,242,254,0.1);
-    }
+- 🎓 Data Science student (Alexandria National University)
+- 🧠 Focus: ML • NLP • Computer Vision • Recommendation Systems  
+- 🚀 Strong interest in **end-to-end ML pipelines + deployment (Streamlit)**
+- 🏆 Competitive Programming background (problem-solving mindset)
+- 💡 Goal: AI Engineer Intern → ML Engineer
 
-    a {
-        color: #00f2fe;
-        text-decoration: none;
-    }
+---
 
-    .badge {
-        display: inline-block;
-        padding: 6px 12px;
-        margin: 5px;
-        background: #111827;
-        border: 1px solid #00f2fe;
-        border-radius: 20px;
-        font-size: 12px;
-    }
+## ⚙️ CORE STACK (PRODUCTION READY)
 
-    .grid {
-        display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-        gap: 15px;
-    }
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,sql,pandas,numpy,sklearn,tensorflow,pytorch,opencv,git,github,vscode,jupyter,linux" />
+</p>
 
-    .hero {
-        background: linear-gradient(135deg, #000000, #0f0f1a);
-        padding: 80px 10%;
-        text-align: center;
-    }
+<p align="center">
+  <img src="https://img.shields.io/badge/ML-Pipelines-000000?style=for-the-badge&logo=git&logoColor=00f2fe"/>
+  <img src="https://img.shields.io/badge/NLP-000000?style=for-the-badge&logo=brain&logoColor=00f2fe"/>
+  <img src="https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=opencv&logoColor=00f2fe"/>
+  <img src="https://img.shields.io/badge/Deployment-000000?style=for-the-badge&logo=streamlit&logoColor=00f2fe"/>
+</p>
 
-    .glow {
-        text-shadow: 0 0 10px #00f2fe;
-    }
-</style>
+---
 
-</head>
+## 📊 ENGINEERING PERFORMANCE DASHBOARD
 
-<body>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mostafa-Mahmoud-H&show_icons=true&theme=github_dark&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mostafa-Mahmoud-H&theme=github-dark&hide_border=true" width="48%"/>
+</p>
 
-<!-- HERO -->
-<div class="hero">
-    <h1 class="glow">Mostafa Mahmoud</h1>
-    <p>AI Engineer • ML System Builder • Data Scientist</p>
-    <p>Building Production-Ready AI Systems from Data → Models → Deployment</p>
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mostafa-Mahmoud-H&bg_color=000000&color=00f2fe&line=00f2fe&point=ffffff&area=true&hide_border=true" width="100%"/>
+</p>
 
-<!-- ABOUT -->
-<section>
-    <h2>🧠 About Me</h2>
+---
 
-    <div class="card">
-        🎓 Data Science Student — Alexandria National University<br><br>
-        🚀 Focus: Machine Learning, NLP, Computer Vision, Recommendation Systems<br><br>
-        ⚙️ Passion: Turning data into real-world deployable systems
-    </div>
-</section>
+## 🚀 FEATURED PROJECTS (ENGINEERING PORTFOLIO)
 
-<!-- IMPACT -->
-<section>
-    <h2>📊 Impact Snapshot</h2>
+### 🧠 01 — DiaPipeline (ML Production Framework)
+End-to-end ML pipeline system:
+- preprocessing → training → evaluation → deployment  
+- production-style architecture (not notebook-based)
 
-    <div class="grid">
-        <div class="card">🧠 ML Systems Built: 3+</div>
-        <div class="card">📦 End-to-End Pipelines: 2+</div>
-        <div class="card">🧾 Datasets Handled: 5+</div>
-        <div class="card">🚀 Deployment: Streamlit Apps</div>
-    </div>
-</section>
+🔗 Repo:
+https://github.com/Mostafa-Mahmoud-H/DiaPipeline-A-Production-Ready-ML-Framework
 
-<!-- TECH STACK -->
-<section>
-    <h2>⚙️ Tech Stack</h2>
+---
 
-    <div>
-        <span class="badge">Python</span>
-        <span class="badge">SQL</span>
-        <span class="badge">C++</span>
-        <span class="badge">Pandas</span>
-        <span class="badge">NumPy</span>
-        <span class="badge">Scikit-learn</span>
-        <span class="badge">TensorFlow</span>
-        <span class="badge">PyTorch</span>
-        <span class="badge">OpenCV</span>
-        <span class="badge">Git</span>
-        <span class="badge">Linux</span>
-        <span class="badge">Streamlit</span>
-    </div>
-</section>
+### 📰 02 — Fake News Detection (Arabic + English NLP)
+- TF-IDF + classical ML
+- bilingual text processing (Arabic + English)
+- real-world NLP classification system
 
-<!-- PROJECTS -->
-<section>
-    <h2>🚀 Featured Projects</h2>
+🔗 Repo:
+https://github.com/Mostafa-Mahmoud-H/Fake-News-Detector-Dual-Language-
 
-    <div class="card">
-        <h3>🧠 DiaPipeline</h3>
-        End-to-end ML pipeline system (training → evaluation → deployment)<br>
-        <a href="https://github.com/Mostafa-Mahmoud-H/DiaPipeline-A-Production-Ready-ML-Framework">View Project</a>
-    </div>
+---
 
-    <div class="card">
-        <h3>📰 Fake News Detection</h3>
-        NLP system for Arabic & English misinformation detection<br>
-        <a href="https://github.com/Mostafa-Mahmoud-H/Fake-News-Detector-Dual-Language-">View Project</a>
-    </div>
+### ❤️ 03 — Heart Disease Prediction System
+- medical ML pipeline
+- EDA + feature engineering + classification models
+- interpretable AI focus
 
-    <div class="card">
-        <h3>❤️ Heart Disease Prediction</h3>
-        ML system for medical diagnosis prediction<br>
-        <a href="https://github.com/Mostafa-Mahmoud-H/Heart-Disease-Detection-Project">View Project</a>
-    </div>
-</section>
+🔗 Repo:
+https://github.com/Mostafa-Mahmoud-H/Heart-Disease-Detection-Project
 
-<!-- HIRE -->
-<section class="center">
-    <h2>🚀 Open For Opportunities</h2>
+---
 
-    <p>
-        AI / ML Internships • Research • Freelance ML Systems • Remote Roles
-    </p>
-</section>
+## 📌 PINNED REPOSITORY STRATEGY (VERY IMPORTANT)
 
-<!-- CONTACT -->
-<section class="center">
-    <h2>🌌 Contact</h2>
+Order for GitHub + LinkedIn:
 
-    <p>
-        <a href="mailto:mostafa.mahmoud.dsai@gmail.com">Email</a> |
-        <a href="https://www.linkedin.com/in/mostafa-hamad-dsai/">LinkedIn</a> |
-        <a href="https://github.com/Mostafa-Mahmoud-H">GitHub</a> |
-        <a href="https://www.kaggle.com/mostafamahmoud0">Kaggle</a>
-    </p>
-</section>
+1️⃣ DiaPipeline → ML Engineering (flagship)
+2️⃣ Fake News Detection → NLP showcase
+3️⃣ Heart Disease → Medical AI
+4️⃣ (Optional) Streamlit deployment project
 
-<!-- FOOTER -->
-<section class="center">
-    <p style="color:#00f2fe;">
-        Engineering intelligence from data → models → production systems
-    </p>
-</section>
+👉 This creates recruiter perception loop:
+- System thinking
+- NLP capability
+- Domain AI (healthcare)
 
-</body>
-</html>
+---
+
+## 📈 IMPACT METRICS (OPTIONAL SECTION)
+
+- 📊 ML Pipelines: Built modular architecture systems
+- 🧠 NLP: Arabic + English preprocessing systems
+- ⚙️ Deployment: Streamlit-based apps
+- 🔬 Focus: End-to-end ML lifecycle (not only training)
+
+---
+
+## 🌌 CONTACT (STARTUP STYLE DARK UI)
+
+<p align="center">
+  <a href="mailto:mostafa.mahmoud.dsai@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00f2fe"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mostafa-hamad-dsai/">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00f2fe"/>
+  </a>
+  <a href="https://github.com/Mostafa-Mahmoud-H">
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00f2fe"/>
+  </a>
+  <a href="https://www.kaggle.com/mostafamahmoud0">
+    <img src="https://img.shields.io/badge/KAGGLE-000000?style=for-the-badge&logo=kaggle&logoColor=00f2fe"/>
+  </a>
+</p>
+
+---
+
+## ⚡ FINAL STATEMENT
+
+<p align="center">
+<b>"Engineering intelligence from raw data into production AI systems."</b>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a0f1c&height=120&section=footer"/>
