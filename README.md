@@ -1,3 +1,5 @@
+<h1 align="center">Hi there, I'm Mostafa Mahmoud 👋</h1>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a0f1c&height=260&section=header&text=%E2%AC%A1%20Mostafa%20Mahmoud&fontSize=50&fontColor=00f2fe&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20ML%20System%20Builder%20•%20Data%20Scientist&descAlignY=58&descSize=20&fontFamily=Montserrat" width="100%"/>
 
 <p align="center">
@@ -31,8 +33,8 @@
         <circle cx="50" cy="50" r="47" stroke="#00f2fe" stroke-width="1.5" fill="none" />
       </svg>
     </td>
-    <td width="70%" valign="top" style="padding-left: 20px;">
-      <table width="100%">
+    <td width="70%" valign="top" style="padding-left: 25px;">
+      <table width="100%" cellspacing="6">
         <tr>
           <td>🎓 <b>Univ:</b> Alexandria National University — Data Science</td>
           <td>🔭 <b>Focus:</b> Building production-ready ML systems</td>
@@ -73,11 +75,17 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NLP-0d1117?style=for-the-badge&logo=brain&logoColor=00f2fe"/>
+  <a href="https://github.com/Mostafa-Mahmoud-H/Fake-News-Detector-Dual-Language-">
+    <img src="https://img.shields.io/badge/NLP-0d1117?style=for-the-badge&logo=brain&logoColor=00f2fe"/>
+  </a>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Computer_Vision-0d1117?style=for-the-badge&logo=opencv&logoColor=00f2fe"/>
+  <a href="#-featured-projects-clean-ordered">
+    <img src="https://img.shields.io/badge/Computer_Vision-0d1117?style=for-the-badge&logo=opencv&logoColor=00f2fe"/>
+  </a>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/ML_Pipelines-0d1117?style=for-the-badge&logo=gitlfs&logoColor=00f2fe"/>
+  <a href="https://github.com/Mostafa-Mahmoud-H/DiaPipeline-A-Production-Ready-ML-Framework">
+    <img src="https://img.shields.io/badge/ML_Pipelines-0d1117?style=for-the-badge&logo=gitlfs&logoColor=00f2fe"/>
+  </a>
 </p>
 
 <br>
@@ -130,6 +138,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Mostafa-Mahmoud-H&show_icons=true&theme=dark&hide_border=true&title_color=00f2fe&text_color=ffffff&icon_color=00f2fe&bg_color=0d1117&count_private=true" width="49%"/>
   &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mostafa-Mahmoud-H&theme=dark&hide_border=true&background=0d1117&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe&sideNums=ffffff&currStreakNum=00f2fe" width="49%"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Mahmoud-H&layout=compact&theme=dark&hide_border=true&title_color=00f2fe&text_color=ffffff&bg_color=0d1117" width="65%"/>
 </p>
 
 <br>
