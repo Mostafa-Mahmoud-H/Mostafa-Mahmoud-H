@@ -2,7 +2,7 @@
 <!-- 👤 PROFILE CARD (TOP UI) -->
 <!-- ========================= -->
 
-<table align="center" style="border:1px solid #0a0f1c; border-radius:16px; padding:18px; width:85%; background:#00000010;">
+<table align="center">
   <tr>
 
     <!-- PROFILE IMAGE (LEFT) -->
@@ -11,32 +11,32 @@
         src="https://avatars.githubusercontent.com/Mostafa-Mahmoud-H"
         width="140"
         height="140"
-        style="border-radius:50%; border:3px solid #00f2fe;"
       />
     </td>
 
-    <!-- NAME + CONTACT (RIGHT) -->
-    <td style="padding-left:20px;">
+    <!-- NAME + DESCRIPTION + CONTACT -->
+    <td align="left">
 
-      <h1 style="margin-bottom:8px;">Mostafa Mahmoud</h1>
+      <h1>Mostafa Mahmoud</h1>
 
-      <p style="margin:0; font-size:14px; color:#00f2fe;">
+      <p>
         AI Engineer • ML System Builder • Data Scientist
       </p>
 
-      <br/>
-
-      <!-- CONTACT (MODERN ICONS) -->
+      <!-- CONTACT ICONS (MODERN UI STYLE) -->
       <p>
         <a href="mailto:mostafa.mahmoud.dsai@gmail.com">
           <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00f2fe"/>
         </a>
+
         <a href="https://www.linkedin.com/in/mostafa-hamad-dsai/">
           <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00f2fe"/>
         </a>
+
         <a href="https://github.com/Mostafa-Mahmoud-H">
           <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00f2fe"/>
         </a>
+
         <a href="https://www.kaggle.com/mostafamahmoud0">
           <img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=00f2fe"/>
         </a>
@@ -62,7 +62,7 @@
 
 - 🎓 Data Science student (Alexandria National University)
 - 🧠 Focus: ML • NLP • Computer Vision • Recommendation Systems  
-- 🚀 Strong interest in end-to-end ML pipelines + deployment
+- 🚀 Interested in end-to-end ML pipelines + deployment (Streamlit)
 - 🏆 Competitive Programming background
 - 💡 Goal: AI Engineer Intern → ML Engineer
 
@@ -98,31 +98,27 @@
 
 ## 🚀 FEATURED PROJECTS 
 
-### 🧠 01 — DiaPipeline (ML Production Framework)
-End-to-end ML pipeline system:
-- preprocessing → training → evaluation → deployment  
-- production-style architecture
+### 🧠 DiaPipeline — ML Production Framework
+- End-to-end ML pipeline (preprocessing → training → deployment)
+- Production-ready architecture
 
-🔗 Repo:
-https://github.com/Mostafa-Mahmoud-H/DiaPipeline-A-Production-Ready-ML-Framework
+🔗 https://github.com/Mostafa-Mahmoud-H/DiaPipeline-A-Production-Ready-ML-Framework
 
 ---
 
-### 📰 02 — Fake News Detection (Arabic + English NLP)
+### 📰 Fake News Detection (Arabic + English NLP)
 - TF-IDF + ML models
 - bilingual NLP system
 
-🔗 Repo:
-https://github.com/Mostafa-Mahmoud-H/Fake-News-Detector-Dual-Language-
+🔗 https://github.com/Mostafa-Mahmoud-H/Fake-News-Detector-Dual-Language-
 
 ---
 
-### ❤️ 03 — Heart Disease Prediction System
-- medical ML pipeline
-- feature engineering + interpretability
+### ❤️ Heart Disease Prediction System
+- Medical ML pipeline
+- Feature engineering + interpretability
 
-🔗 Repo:
-https://github.com/Mostafa-Mahmoud-H/Heart-Disease-Detection-Project
+🔗 https://github.com/Mostafa-Mahmoud-H/Heart-Disease-Detection-Project
 
 ---
 
@@ -132,12 +128,15 @@ https://github.com/Mostafa-Mahmoud-H/Heart-Disease-Detection-Project
   <a href="mailto:mostafa.mahmoud.dsai@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00f2fe"/>
   </a>
+
   <a href="https://www.linkedin.com/in/mostafa-hamad-dsai/">
     <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00f2fe"/>
   </a>
+
   <a href="https://github.com/Mostafa-Mahmoud-H">
     <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00f2fe"/>
   </a>
+
   <a href="https://www.kaggle.com/mostafamahmoud0">
     <img src="https://img.shields.io/badge/KAGGLE-000000?style=for-the-badge&logo=kaggle&logoColor=00f2fe"/>
   </a>
