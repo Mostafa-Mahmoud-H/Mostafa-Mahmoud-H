@@ -1,7 +1,7 @@
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=220&section=header&text=Mostafa%20Mahmoud&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20AI%20/%20ML%20Engineer&descAlignY=55&descSize=22" width="100%"/>
+<!-- Animated Header with Montserrat Font -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=220&section=header&text=Mostafa%20Mahmoud&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20/%20ML%20Engineer%20(Aspiring)&descAlignY=55&descSize=22&fontFamily=Montserrat" width="100%"/>
 
-<!-- Views Badge & Typing Animation -->
+<!-- Views Badge & Typing Animation with Fira Code Font -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mostafa-Mahmoud-H&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
@@ -12,51 +12,50 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 <code>About Me</code>
 
 - 🎓 **Education:** 3rd-year Data Science student at **Alexandria National University** (Expected May 2027).
 - 🏆 **Achievements:** 1st Place in University-Level Competitive Programming & National Finalist.
 - 💼 **Experience:** Computer Vision Intern at **NTI** (OCR & Automation) | IT Intern at **ANRPC**.
 - 🧠 **Focus Areas:** Machine Learning, Computer Vision (OpenCV), Bilingual NLP (Arabic/English), and Recommendation Systems.
-- 🛠️ **Deployment:** Passionate about turning complex models into interactive web applications using **Streamlit**.
+- 🛠️ **Deployment:** Passionate about turning complex models into interactive web applications using `Streamlit`.
 
 ---
 
-## ⚙️ Tech Stack & Tools
+## ⚙️ <code>Tech Stack & Tools</code>
 
 <p align="center">
-  <strong>Languages & Databases</strong><br>
+  <strong>⚡ Languages & Databases</strong><br>
   <img src="https://skillicons.dev/icons?i=python,cpp,sql" alt="Languages"/>
 </p>
 
 <p align="center">
-  <strong>Data Science & Machine Learning</strong><br>
+  <strong>📊 Data Science & Machine Learning</strong><br>
   <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn" alt="Data Science"/>
 </p>
 
 <p align="center">
-  <strong>Deep Learning & Computer Vision</strong><br>
+  <strong>🧠 Deep Learning & Computer Vision</strong><br>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="Deep Learning"/>
 </p>
 
 <p align="center">
-  <strong>Tools & Deployment</strong><br>
+  <strong>🧰 Tools & Deployment</strong><br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux" alt="Tools"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 <code>Code Contribution Graph</code>
 
+<!-- راسم بياني عصري جداً يوضح حجم تفاعلك وكتابتك للكود بشكل ويفز مودرن -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mostafa-Mahmoud-H&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mostafa-Mahmoud-H&theme=tokyonight&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 📌 <code>Featured Projects</code>
 
 <p align="center">
   <a href="https://github.com/Mostafa-Mahmoud-H/DiaPipeline-A-Production-Ready-ML-Framework">
@@ -70,12 +69,11 @@
   <a href="https://github.com/Mostafa-Mahmoud-H/Heart-Disease-Detection-Project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mostafa-Mahmoud-H&repo=Heart-Disease-Detection-Project&theme=tokyonight&show_owner=true" alt="Heart Disease Prediction" width="48%"/>
   </a>
-  <!-- Add any 4th project here to balance the grid, like your Movie Recommendation System -->
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 <code>GitHub Analytics</code>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mostafa-Mahmoud-H&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
@@ -88,7 +86,7 @@
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 <code>Let's Connect</code>
 
 <p align="center">
   <a href="https://github.com/Mostafa-Mahmoud-H">
