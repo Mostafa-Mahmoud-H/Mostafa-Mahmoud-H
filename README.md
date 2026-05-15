@@ -1,261 +1,206 @@
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2D1B69&height=280&section=header&text=Mostafa%20Mahmoud&fontSize=60&fontColor=00f2fe&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20ML%20System%20Builder%20•%20Data%20Scientist&descAlignY=58&descSize=22&descColor=BF94FF" width="100%"/>
-
-<!-- TYPING SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=00F2FE&background=16161D00&center=true&vCenter=true&width=800&height=50&lines=Building+Production+AI+Systems;ML+Engineering+%7C+NLP+%7C+Computer+Vision;From+Data+→+Models+→+Deployment;Internship-Ready+AI+Engineer;📍+Alexandria,+Egypt" />
-</p>
-
-<!-- PROFILE VIEWS BADGE -->
-<p align="center">
-  <img src="https://komarev.com/ghvc/?username=Mostafa-Mahmoud-H&color=2D1B69&style=flat-square&labelColor=00f2fe&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
+# 🚀 Mostafa Mahmoud — AI Engineer Portfolio
 
 ---
 
-<!-- ABOUT ME -->
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzY2Zid3BqYTN0b29xZjg2Z3B6bmpvZGtyOHR6cWN4Z3NpejZpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WpUr001Jg5W97bO8vM/giphy.gif" width="35"/> 🧠 ABOUT ME (ENGINEERING MINDSET)
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                 EXPERIENCE & ACHIEVEMENTS                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<table width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <br>
-      <blockquote>I don’t just build models — I build <b>AI systems that ship to production</b>.</blockquote>
-      <p>
-        Currently a <b>Data Science</b> student at Alexandria National University with a profound passion for engineering intelligence. My focus lies at the intersection of robust machine learning algorithms and efficient software systems.
-      </p>
-      <ul>
-        <li>🎯 <b>Focus:</b> <code>ML</code> • <code>NLP</code> • <code>Computer Vision</code> • <code>Recommender Systems</code></li>
-        <li>🚀 <b>Strong Interest:</b> MLOps, End-to-End Pipelines & Cloud Deployment (<code>Streamlit</code>)</li>
-        <li>🏆 <b>Background:</b> Competitive Programming (Advanced Problem Solving)</li>
-        <li>💡 <b>Goal:</b> Secure an <b>AI Engineer Intern</b> role → Transition to Full-time <b>ML Engineer</b></li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://cdni.iconscout.com/illustration/premium/thumb/programmer-doing-machine-learning-4268311-3560949.png" width="80%" alt="AI Engineering Illustration"/>
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- EXPERIENCE & ACHIEVEMENTS -->
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW11YWx0OWRxeG1ndW9jM3ptNW1sbmtuMnp3MjZ2MTJxcDJiOWZleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZBQpC05W6wH4P1n8Y6/giphy.gif" width="35"/> 💼 EXPERIENCE & ACHIEVEMENTS
+## 💼 EXPERIENCE & ACHIEVEMENTS
 
 ### 💼 Professional Internships
-* 🌐 **IT Intern** | *Alexandria National Refining and Petrochemicals Company (ANRPC)* (May 2026)
-  * Focused on data centers and networking infrastructure.
-* 👁️ **Computer Vision Intern** | *National Telecommunication Institute (NTI)* (Jul 2025 - Aug 2025)
-  * Developed an automated photo organizer and an Optical Character Recognition (OCR) system.
+- 🌐 **IT Intern** | Alexandria National Refining and Petrochemicals Company (ANRPC) *(May 2026)*  
+  - Focused on data centers and networking infrastructure.
 
-### 🏆 Competitive Programming & Problem Solving
-* 🥇 **1st Place** | *University-level Programming Competition*
-  * Won first place in the university-level programming competition and successfully qualified for the National Finals.
+- 👁️ **Computer Vision Intern** | National Telecommunication Institute (NTI) *(Jul 2025 – Aug 2025)*  
+  - Built OCR system + automated image organization pipeline.
 
 ---
 
-<!-- SKILLS SECTION -->
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm9wMzZ0c2NndjU5bmsxbXVmOWpydGxybm9reGFpYm0xcm9nNnY0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/S8NoL09A0r0R15vX5D/giphy.gif" width="35"/> ⚙️ CORE STACK
-
-### 🔧 Languages & Core Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,sql,git,github,vscode,jupyter,linux&perline=8" />
-</p>
-
-### 🧠 Data Science & AI/ML
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,tensorflow,pytorch,opencv&perline=6" />
-</p>
-
-### 🛠️ Frameworks, Deployment & Domains
-<p align="center">
-  <!-- Domains -->
-  <img src="https://img.shields.io/badge/Domain-Machine%20Learning-8A2BE2?style=for-the-badge&logo=brain&logoColor=00f2fe"/>
-  <img src="https://img.shields.io/badge/Domain-NLP-8A2BE2?style=for-the-badge&logo=openai&logoColor=00f2fe"/>
-  <img src="https://img.shields.io/badge/Domain-Computer%20Vision-8A2BE2?style=for-the-badge&logo=opencv&logoColor=00f2fe"/>
-  <br>
-  <!-- Pipelines & Ops -->
-  <img src="https://img.shields.io/badge/Ops-ML%20Pipelines-1A1A1A?style=for-the-badge&logo=git&logoColor=00f2fe&labelColor=333"/>
-  <img src="https://img.shields.io/badge/Deployment-Streamlit-1A1A1A?style=for-the-badge&logo=streamlit&logoColor=00f2fe&labelColor=333"/>
-  <img src="https://img.shields.io/badge/Platform-Kaggle-1A1A1A?style=for-the-badge&logo=kaggle&logoColor=00f2fe&labelColor=333"/>
-</p>
+### 🏆 Competitive Programming
+- 🥇 **1st Place — University Programming Contest**
+  - Qualified for National Finals
+  - Strong algorithmic + problem-solving background
 
 ---
 
-<!-- CERTIFICATIONS & LEARNING -->
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTA4N2Z5bXF6OWI1dmh4MzF5MXptOW92bjA1dnRrd3o5MmdtZDNrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/u48E9Q6U3zP0g8n0t7/giphy.gif" width="35"/> 🎓 CERTIFICATIONS & CURRENTLY LEARNING
+## 🛠️ Frameworks, Deployment & AI Domains
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4><img src="https://img.icons8.com/fluency/48/certificate.png" width="20"/> Certifications</h4>
-      <ul>
-        <li><b>[Certificate Name]</b> - [Organization] (<a href="#">Verify</a>)</li>
-        <li><b>[Certificate Name]</b> - [Organization] (<a href="#">Verify</a>)</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4><img src="https://img.icons8.com/fluency/48/books.png" width="20"/> Currently Learning</h4>
-      <ul>
-        <li>🛠️ Advanced <b>MLOps</b> (Docker, Kubernetes, MLflow)</li>
-        <li>☁️ <b>Cloud Deployment</b> (AWS/GCP for Machine Learning)</li>
-        <li>🤗 Deepening <b>Hugging Face</b> ecosystem for NLP tasks</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- 🧠 Machine Learning Pipelines (Scikit-learn, XGBoost)
+- 📝 NLP Systems (TF-IDF, Transformers, NLTK)
+- 👁️ Computer Vision (OpenCV, CNNs)
+- ⚙️ MLOps (Streamlit, Git, ML Pipelines)
+- ☁️ Deployment & Productization of ML Systems
 
 ---
 
-<!-- PROJECTS SECTION -->
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWdwYmF1bjZpajltbjByZGdxd2tlbDB4dW0wd2hxOXV6bmd6dTZwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q5Ff447I7J99vR4GkF/giphy.gif" width="35"/> 🚀 FEATURED PROJECTS
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         HEADER                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<table width="100%">
-  <!-- Project 01 -->
-  <tr>
-    <td width="100%">
-      <h3>🧠 01 — DiaPipeline (ML Production Framework)</h3>
-      <p>End-to-end ML pipeline system focusing on clean code architecture rather than notebooks.</p>
-      <ul>
-        <li>Modular design: preprocessing → training → evaluation → deployment.</li>
-        <li>Production-style architecture.</li>
-      </ul>
-      <p>
-        <b>Tech Stack:</b>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Deployment-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-      </p>
-      <a href="https://github.com/Mostafa-Mahmoud-H/DiaPipeline-A-Production-Ready-ML-Framework">
-        <img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=00f2fe&labelColor=2D1B69"/>
-      </a>
-      <br><br>
-    </td>
-  </tr>
-  <!-- Project 02 -->
-  <tr>
-    <td width="100%">
-      <h3>🎬 02 — Hybrid Movie Recommendation System</h3>
-      <p>A comprehensive recommendation engine built on the MovieLens 100K dataset.</p>
-      <ul>
-        <li>Integrates collaborative filtering and content-based filtering algorithms.</li>
-        <li>Features structured data preprocessing and pipeline integration.</li>
-      </ul>
-      <p>
-        <b>Tech Stack:</b>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-      </p>
-      <a href="#">
-        <img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=00f2fe&labelColor=2D1B69"/>
-      </a>
-      <br><br>
-    </td>
-  </tr>
-  <!-- Project 03 -->
-  <tr>
-    <td width="100%">
-      <h3>📰 03 — Fake News Detection (Arabic + English NLP)</h3>
-      <p>Bilingual text processing and classification system designed to handle multi-language dialects.</p>
-      <ul>
-        <li>Utilizes TF-IDF vectorization and advanced Arabic text preprocessing.</li>
-        <li>Implements classical ML classifiers for reliable real-world deployment.</li>
-      </ul>
-      <p>
-        <b>Tech Stack:</b>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/NLP-NLTK-4AAF57?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-      </p>
-      <a href="https://github.com/Mostafa-Mahmoud-H/Fake-News-Detector-Dual-Language-">
-        <img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=00f2fe&labelColor=2D1B69"/>
-      </a>
-      <br><br>
-    </td>
-  </tr>
-  <!-- Project 04 -->
-  <tr>
-    <td width="100%">
-      <h3>❤️ 04 — Heart Disease Prediction System</h3>
-      <p>A medical ML pipeline combining rule-based expert logic with classification models.</p>
-      <ul>
-        <li>Rigorous EDA, data preprocessing, and feature engineering steps.</li>
-        <li>Focuses on interpretable AI metrics and Decision Tree classifiers.</li>
-      </ul>
-      <p>
-        <b>Tech Stack:</b>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/EDA-Matplotlib-11557C?style=flat-square"/>
-        <img src="https://img.shields.io/badge/ML-DecisionTrees-11557C?style=flat-square"/>
-      </p>
-      <a href="https://github.com/Mostafa-Mahmoud-H/Heart-Disease-Detection-Project">
-        <img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=00f2fe&labelColor=2D1B69"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- STATS SECTION -->
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzhicnduNDB1Nm4xbXphbmd2Mm5wN3Q3c3U2cjRtbXFyM3B1bWhmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jUg60O65yX7B09vI54/giphy.gif" width="35"/> 📊 ENGINEERING PERFORMANCE DASHBOARD
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0f1a,40:1a0a3e,100:0d0f1a&height=300&section=header&text=Mostafa%20Mahmoud&fontSize=64&fontColor=00f2fe&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20ML%20Systems%20Builder%20%E2%80%A2%20Data%20Scientist&descAlignY=60&descSize=20&descColor=bf94ff&stroke=00f2fe&strokeWidth=2" width="100%"/>
 
 <p align="center">
-  <table align="center">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Mostafa-Mahmoud-H&show_icons=true&theme=rose_pine&bg_color=00000000&hide_border=true&icon_color=00f2fe&title_color=BF94FF&text_color=fff" width="100%"/>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mostafa-Mahmoud-H&theme=rose_pine&background=00000000&hide_border=true&ring=00f2fe&fire=00f2fe&currStreakLabel=BF94FF" width="100%"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2" width="100%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Mahmoud-H&layout=compact&theme=rose_pine&bg_color=00000000&hide_border=true&title_color=BF94FF&text_color=fff&icon_color=00f2fe" width="65%"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00F2FE&background=00000000&center=true&vCenter=true&width=750&height=45&lines=Building+Production+AI+Systems+🔥;ML+Engineering+%7C+NLP+%7C+Computer+Vision+🤖;From+Raw+Data+→+Models+→+Deployed+Systems;Internship-Ready+AI+Engineer+🚀;📍+Alexandria%2C+Egypt" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mostafa-Mahmoud-H&bg_color=000000&color=00f2fe&line=8A2BE2&point=ffffff&area=true&hide_border=true&height=300" width="100%"/>
-</p>
-
----
-
-<!-- CONTACT SECTION -->
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXA0dmh5OWtndXU4cjR5MWw4MzBvbndlZmxvMGVmaG0wcmNqYzhveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L32O0w7b0wT7NfW7A9/giphy.gif" width="35"/> 🌌 CONNECT WITH ME
-
-<p align="center">
-  Discussing AI, collaborating on open-source, or networking for opportunities—feel free to reach out!
-</p>
-
-<p align="center">
-  <a href="mailto:mostafa.mahmoud.dsai@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mostafa.mahmoud.dsai%40gmail.com-1A1A1A?style=for-the-badge&logo=gmail&logoColor=00f2fe&labelColor=2D1B69"/>
-  </a>
-  <br><br>
   <a href="https://www.linkedin.com/in/mostafa-hamad-dsai/">
-    <img src="https://img.shields.io/badge/LinkedIn-Mostafa%20Mahmoud-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=00f2fe&labelColor=2D1B69"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0d0f1a?style=for-the-badge&logo=linkedin&logoColor=00f2fe&labelColor=1a0a3e"/>
+  </a>
+  <a href="mailto:mostafa.mahmoud.dsai@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0d0f1a?style=for-the-badge&logo=gmail&logoColor=00f2fe&labelColor=1a0a3e"/>
   </a>
   <a href="https://github.com/Mostafa-Mahmoud-H">
-    <img src="https://img.shields.io/badge/GitHub-Mostafa--Mahmoud--H-1A1A1A?style=for-the-badge&logo=github&logoColor=00f2fe&labelColor=2D1B69"/>
+    <img src="https://img.shields.io/badge/GitHub-0d0f1a?style=for-the-badge&logo=github&logoColor=00f2fe&labelColor=1a0a3e"/>
   </a>
   <a href="https://www.kaggle.com/mostafamahmoud0">
-    <img src="https://img.shields.io/badge/Kaggle-Mostafa%20Mahmoud-1A1A1A?style=for-the-badge&logo=kaggle&logoColor=00f2fe&labelColor=2D1B69"/>
+    <img src="https://img.shields.io/badge/Kaggle-0d0f1a?style=for-the-badge&logo=kaggle&logoColor=00f2fe&labelColor=1a0a3e"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Mostafa-Mahmoud-H&color=bf94ff&style=for-the-badge&label=PROFILE+VIEWS"/>
 </p>
 
 ---
 
-<!-- FOOTER -->
+## 🧠 About Me
+
+<table width="100%">
+<tr>
+
+<td width="60%" valign="top">
+
+> **"I don't just build models — I engineer AI systems that ship to production."**
+
+Currently a **Data Science student** at **Alexandria National University**, focused on building real-world ML systems beyond notebooks.
+
+```python
+class MostafaMahmoud:
+    university = "Alexandria National University"
+    degree = "Data Science & AI"
+    location = "Alexandria, Egypt"
+
+    domains = ["ML Systems", "NLP", "Computer Vision", "LLMs"]
+    stack = ["Python", "PyTorch", "TensorFlow", "Sklearn", "OpenCV", "Streamlit"]
+
+    goal = "AI Engineer Intern → ML Engineer"
+    available = True
+```
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://github.com/Mostafa-Mahmoud-H/Mostafa-Mahmoud-H/raw/main/assets/profile.jpg" width="200px" style="border-radius:50%; border:4px solid #00f2fe;"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚙️ Core Tech Stack
+
 <p align="center">
-  <br>
-  <i>"Engineering intelligence from raw data into production AI systems."</i>
-  <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D1B69,100:000000&height=120&section=footer"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,sql,git,github,linux,vscode,jupyter&perline=8"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,pandas,numpy&perline=6"/>
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 DiaPipeline
+**Production ML Framework**
+
+- End-to-end ML pipeline
+- Training → Evaluation → Deployment
+
+**Tech:** Python · Sklearn · Streamlit
+
+[📁 Repo](https://github.com/Mostafa-Mahmoud-H)
+
+</td>
+<td width="50%">
+
+### 📰 Fake News Detector
+**Arabic + English NLP System**
+
+- TF-IDF + ML classifiers
+- Multilingual pipeline
+
+**Tech:** Python · NLP · Sklearn
+
+[📁 Repo](https://github.com/Mostafa-Mahmoud-H)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ❤️ Heart Disease Predictor
+**Medical ML System**
+
+- EDA + Feature Engineering
+- Explainable ML model
+
+**Tech:** Python · XGBoost · Pandas
+
+[📁 Repo](https://github.com/Mostafa-Mahmoud-H)
+
+</td>
+<td width="50%">
+
+### 🔬 Coming Soon
+**Always Shipping**
+
+- CV Pipeline (YOLO)
+- Recommendation System
+- LLM Applications
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎓 Currently Leveling Up
+
+| Area | Focus |
+|------|-------|
+| MLOps | Docker · MLflow · CI/CD |
+| LLMs | HuggingFace · RAG · Fine-tuning |
+| Cloud | AWS / GCP Deployment |
+| CV | YOLO · Segmentation · GANs |
+
+---
+
+## 🌌 Let's Connect
+
+<p align="center">
+
+*Open to AI internships, collaborations, and research opportunities.*
+
+<br/><br/>
+
+<a href="mailto:mostafa.mahmoud.dsai@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-0d0f1a?style=for-the-badge&logo=gmail&logoColor=00f2fe"/>
+</a>
+<a href="https://www.linkedin.com/in/mostafa-hamad-dsai/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0d0f1a?style=for-the-badge&logo=linkedin&logoColor=00f2fe"/>
+</a>
+<a href="https://github.com/Mostafa-Mahmoud-H">
+  <img src="https://img.shields.io/badge/GitHub-Follow-0d0f1a?style=for-the-badge&logo=github&logoColor=00f2fe"/>
+</a>
+<a href="https://www.kaggle.com/mostafamahmoud0">
+  <img src="https://img.shields.io/badge/Kaggle-Profile-0d0f1a?style=for-the-badge&logo=kaggle&logoColor=00f2fe"/>
+</a>
+
+</p>
+
+---
+
+> *"Engineering intelligence from raw data into production AI systems."*
