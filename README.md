@@ -1,155 +1,114 @@
-# 🚀 Mostafa Mahmoud | AI / ML Engineer (Aspiring)
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=220&section=header&text=Mostafa%20Mahmoud&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20AI%20/%20ML%20Engineer&descAlignY=55&descSize=22" width="100%"/>
 
+<!-- Views Badge & Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=900&color=0E75B6&center=true&vCenter=true&width=900&lines=AI+%2F+ML+Engineer+%7C+Data+Science+Enthusiast;Building+Production-Ready+Intelligent+Systems;Python+%7C+NLP+%7C+Deep+Learning+%7C+MLOps+Mindset" />
+  <img src="https://komarev.com/ghpvc/?username=Mostafa-Mahmoud-H&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mostafa-Mahmoud-H&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## ✨ Typography-Enhanced Profile
-
-> *Turning data into intelligent systems through clean engineering, structured thinking, and real-world ML pipelines.*
-
-<p align="center">
-  <b>AI Engineer</b> • <i>Data Scientist</i> • <code>ML Builder</code> • <span>Problem Solver</span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Data+Science+Student+%40+Alexandria+National+Univ.;Building+End-to-End+Production+ML+Systems;Passionate+about+Computer+Vision+%26+NLP;1st+Place+Competitive+Programming+Winner" alt="Typing Animation"/>
 </p>
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-🎓 3rd-year Computer Science student (entering final year)
-
-💡 Aspiring **AI / Machine Learning Engineer** focused on building production-grade ML systems.
-
-🔥 Passionate about scalable AI solutions, model deployment, and end-to-end pipelines.
-
-📌 Actively seeking **AI / ML / Data Science internships**
+- 🎓 **Education:** 3rd-year Data Science student at **Alexandria National University** (Expected May 2027).
+- 🏆 **Achievements:** 1st Place in University-Level Competitive Programming & National Finalist.
+- 💼 **Experience:** Computer Vision Intern at **NTI** (OCR & Automation) | IT Intern at **ANRPC**.
+- 🧠 **Focus Areas:** Machine Learning, Computer Vision (OpenCV), Bilingual NLP (Arabic/English), and Recommendation Systems.
+- 🛠️ **Deployment:** Passionate about turning complex models into interactive web applications using **Streamlit**.
 
 ---
 
-## 🎨 Visual Identity (Typography Style Layer)
+## ⚙️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-AI%20ENGINEER-black?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-DATA%20SCIENTIST-1f6feb?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-ML%20DEVELOPER-ff6b6b?style=for-the-badge" />
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,cpp" />
-</p>
-
-### 📊 Data Science & ML
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn" />
+  <strong>Languages & Databases</strong><br>
+  <img src="https://skillicons.dev/icons?i=python,cpp,sql" alt="Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Matplotlib-1f77b4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Seaborn-2a6fdb?style=for-the-badge" />
+  <strong>Data Science & Machine Learning</strong><br>
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn" alt="Data Science"/>
 </p>
 
-### 🧠 Deep Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <strong>Deep Learning & Computer Vision</strong><br>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="Deep Learning"/>
 </p>
 
-### 🧾 NLP
 <p align="center">
-  <span style="font-size:18px;"><b>TF-IDF</b></span> • 
-  <span style="font-size:18px;"><i>Text Cleaning</i></span> • 
-  <span style="font-size:18px;"><b>Arabic & English NLP Pipelines</b></span>
+  <strong>Tools & Deployment</strong><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux" alt="Tools"/>
 </p>
 
 ---
 
-## 🧰 Tools & Workflow
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deployment-00b894?style=for-the-badge" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Mostafa-Mahmoud-H&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
 </p>
 
 ---
 
-## 🚀 Featured Projects (Story-Driven)
+## 📌 Featured Projects
 
-### 🧠 ML Pipeline Framework
 <p align="center">
-<a href="https://github.com/Mostafa-Mahmoud-H/DiaPipeline-A-Production-Ready-ML-Framework">
-<img src="https://img.shields.io/badge/End--to--End%20ML%20System-1f6feb?style=for-the-badge" />
-</a>
+  <a href="https://github.com/Mostafa-Mahmoud-H/DiaPipeline-A-Production-Ready-ML-Framework">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mostafa-Mahmoud-H&repo=DiaPipeline-A-Production-Ready-ML-Framework&theme=tokyonight&show_owner=true" alt="DiaPipeline" width="48%"/>
+  </a>
+  <a href="https://github.com/Mostafa-Mahmoud-H/Fake-News-Detector-Dual-Language-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mostafa-Mahmoud-H&repo=Fake-News-Detector-Dual-Language-&theme=tokyonight&show_owner=true" alt="Fake News Detector" width="48%"/>
+  </a>
 </p>
-<p align="center"><i>Modular pipeline: preprocessing → training → evaluation → deployment</i></p>
-
----
-
-### 📰 Fake News Detection (Bilingual NLP)
 <p align="center">
-<a href="https://github.com/Mostafa-Mahmoud-H/Fake-News-Detector-Dual-Language-">
-<img src="https://img.shields.io/badge/NLP%20Classifier-8e44ad?style=for-the-badge" />
-</a>
+  <a href="https://github.com/Mostafa-Mahmoud-H/Heart-Disease-Detection-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mostafa-Mahmoud-H&repo=Heart-Disease-Detection-Project&theme=tokyonight&show_owner=true" alt="Heart Disease Prediction" width="48%"/>
+  </a>
+  <!-- Add any 4th project here to balance the grid, like your Movie Recommendation System -->
 </p>
-<p align="center"><i>Arabic & English fake news classification using ML + TF-IDF</i></p>
-
----
-
-### ❤️ Heart Disease Prediction
-<p align="center">
-<a href="https://github.com/Mostafa-Mahmoud-H/Heart-Disease-Detection-Project">
-<img src="https://img.shields.io/badge/Medical%20ML%20System-e74c3c?style=for-the-badge" />
-</a>
-</p>
-<p align="center"><i>Healthcare prediction model with full ML pipeline</i></p>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mostafa-Mahmoud-H&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Mahmoud-H&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mostafa-Mahmoud-H&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mostafa-Mahmoud-H&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mostafa-Mahmoud-H&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Mahmoud-H&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%"/>
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <p align="center">
-
-<a href="https://github.com/Mostafa-Mahmoud-H"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
-<a href="https://www.linkedin.com/in/mostafa-hamad-dsai/"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-<a href="https://www.kaggle.com/mostafamahmoud0"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge" /></a>
-<a href="mailto:mostafa.mahmoud.dsai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge" /></a>
-
-</p>
-
----
-
-## ✨ Final Note
-
-<p align="center">
-<b>"Build. Break. Learn. Improve. Repeat."</b>
+  <a href="https://github.com/Mostafa-Mahmoud-H">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mostafa-hamad-dsai/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.kaggle.com/mostafamahmoud0">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="mailto:mostafa.mahmoud.dsai@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 <p align="center">
-<i>Designed with a typography-first, recruiter-friendly structure</i>
+  <br>
+  <b>"Build. Learn. Improve. Repeat."</b>
 </p>
+
+<!-- Footer Capsule -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=100&section=footer" width="100%"/>
