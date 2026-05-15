@@ -94,6 +94,26 @@ class MostafaMahmoud:
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                 EXPERIENCE & ACHIEVEMENTS                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 💼 EXPERIENCE & ACHIEVEMENTS
+
+### 💼 Professional Internships
+- 🌐 **IT Intern** | Alexandria National Refining and Petrochemicals Company (ANRPC) *(May 2026)*
+  - Focused on data centers and networking infrastructure.
+
+- 👁️ **Computer Vision Intern** | National Telecommunication Institute (NTI) *(Jul 2025 – Aug 2025)*
+  - Built OCR system + automated image organization pipeline.
+
+### 🏆 Competitive Programming
+- 🥇 **1st Place — University Programming Contest**
+  - Qualified for National Finals
+  - Strong algorithmic + problem-solving background
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                       TECH STACK                                -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -113,17 +133,21 @@ class MostafaMahmoud:
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,pandas,numpy&perline=6&theme=dark"/>
 
-<br/><br/>
-
-| 🏷️ Domain | 🔖 Technology | 🎯 Use Case |
-|:---:|:---:|:---|
-| ![](https://img.shields.io/badge/NLP-bf94ff?style=flat-square) | Transformers · TF-IDF · NLTK | Text classification, sentiment, translation |
-| ![](https://img.shields.io/badge/Vision-bf94ff?style=flat-square) | OpenCV · CNNs · YOLO | Object detection, segmentation |
-| ![](https://img.shields.io/badge/MLOps-bf94ff?style=flat-square) | Streamlit · Pipelines · Git | Model deployment, versioning |
-| ![](https://img.shields.io/badge/LLMs-bf94ff?style=flat-square) | HuggingFace · Prompt Eng | Generative AI applications |
-| ![](https://img.shields.io/badge/Classical%20ML-bf94ff?style=flat-square) | Scikit-learn · XGBoost | Tabular data, ensembles |
-
 </div>
+
+<br/>
+
+### 🛠️ Frameworks, Deployment & Domains
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Domain-Machine%20Learning-8A2BE2?style=for-the-badge&logo=brain&logoColor=00f2fe"/>
+  <img src="https://img.shields.io/badge/Domain-NLP-8A2BE2?style=for-the-badge&logo=openai&logoColor=00f2fe"/>
+  <img src="https://img.shields.io/badge/Domain-Computer%20Vision-8A2BE2?style=for-the-badge&logo=opencv&logoColor=00f2fe"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Ops-ML%20Pipelines-1A1A1A?style=for-the-badge&logo=git&logoColor=00f2fe&labelColor=333"/>
+  <img src="https://img.shields.io/badge/Deployment-Streamlit-1A1A1A?style=for-the-badge&logo=streamlit&logoColor=00f2fe&labelColor=333"/>
+  <img src="https://img.shields.io/badge/Platform-Kaggle-1A1A1A?style=for-the-badge&logo=kaggle&logoColor=00f2fe&labelColor=333"/>
+</p>
 
 <br/>
 
@@ -275,27 +299,6 @@ Currently building:
 <img src="https://github-profile-trophy.vercel.app/?username=Mostafa-Mahmoud-H&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=7" width="97%"/>
 <br/>
 </div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   SKILL PROGRESSION                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 📈 Skill Progression
-
-<br/>
-
-```
-🧠  Deep Learning Architectures    ████████████░░░░   75%
-👁️   Computer Vision Pipelines      ███████████░░░░░   70%
-📝  NLP & Transformers             ██████████░░░░░░   65%
-⚙️   MLOps & Deployment             ████████░░░░░░░░   55%
-🤖  LLM Engineering                ██████░░░░░░░░░░   40%
-📐  Competitive Programming        █████████████░░░   82%
-```
-
-<br/>
 
 ---
 
