@@ -1,4 +1,3 @@
-<!-- ================= DARK STARTUP HERO ================= -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a0f1c&height=270&section=header&text=Mostafa%20Mahmoud&fontSize=56&fontColor=00f2fe&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20ML%20System%20Builder%20•%20Data%20Scientist&descAlignY=58&descSize=20" width="100%"/>
 
 <p align="center">
@@ -19,7 +18,7 @@
 
 ---
 
-## ⚙️ CORE STACK (PRODUCTION READY)
+## ⚙️ CORE STACK 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,sql,pandas,numpy,sklearn,tensorflow,pytorch,opencv,git,github,vscode,jupyter,linux" />
@@ -47,7 +46,7 @@
 
 ---
 
-## 🚀 FEATURED PROJECTS (ENGINEERING PORTFOLIO)
+## 🚀 FEATURED PROJECTS 
 
 ### 🧠 01 — DiaPipeline (ML Production Framework)
 End-to-end ML pipeline system:
@@ -79,33 +78,7 @@ https://github.com/Mostafa-Mahmoud-H/Heart-Disease-Detection-Project
 
 ---
 
-## 📌 PINNED REPOSITORY STRATEGY (VERY IMPORTANT)
-
-Order for GitHub + LinkedIn:
-
-1️⃣ DiaPipeline → ML Engineering (flagship)
-2️⃣ Fake News Detection → NLP showcase
-3️⃣ Heart Disease → Medical AI
-4️⃣ (Optional) Streamlit deployment project
-
-👉 This creates recruiter perception loop:
-- System thinking
-- NLP capability
-- Domain AI (healthcare)
-
----
-
-## 📈 IMPACT METRICS (OPTIONAL SECTION)
-
-- 📊 ML Pipelines: Built modular architecture systems
-- 🧠 NLP: Arabic + English preprocessing systems
-- ⚙️ Deployment: Streamlit-based apps
-- 🔬 Focus: End-to-end ML lifecycle (not only training)
-
----
-
-## 🌌 CONTACT (STARTUP STYLE DARK UI)
-
+## 🌌 CONTACT 
 <p align="center">
   <a href="mailto:mostafa.mahmoud.dsai@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00f2fe"/>
