@@ -154,6 +154,48 @@ class MostafaMahmoud:
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      CERTIFICATIONS                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🎓 Certifications
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🐍 Python
+
+| Course | Platform | Link |
+|--------|----------|------|
+| Intro to Python for Data Science | DataCamp | [Verify](https://www.datacamp.com/courses/intro-to-python-for-data-science?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=coursedetailpage) |
+| Intermediate Python | DataCamp | [Verify](https://www.datacamp.com/courses/intermediate-python?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=coursedetailpage) |
+| Data Manipulation with Pandas | DataCamp | [Verify](https://www.datacamp.com/courses/data-manipulation-with-pandas?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=coursedetailpage) |
+| Joining Data with Pandas | DataCamp | [Verify](https://www.datacamp.com/courses/joining-data-with-pandas?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=coursedetailpage) |
+| Python Programming | GeeksforGeeks | [Verify](https://www.geeksforgeeks.org/certificate/45b8a58c28ab8a9da7f3799852f44e0b?utm_source=socials&utm_medium=cc_link) |
+
+</td>
+<td width="50%" valign="top">
+
+### 🗄️ SQL & Computer Vision
+
+| Course | Platform | Link |
+|--------|----------|------|
+| Introduction to SQL | DataCamp | [Verify](https://www.datacamp.com/courses/introduction-to-sql?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=coursedetailpage) |
+| Intermediate SQL | DataCamp | [Verify](https://www.datacamp.com/courses/intermediate-sql?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=coursedetailpage) |
+| Computer Vision Diploma | NTI | [Verify](https://drive.google.com/file/d/1reYlwemHQiPmJk0LpeYFumgznLF-5lUm/view) |
+| IT Infrastructure Training | ANRPC | [LinkedIn Post](https://www.linkedin.com/in/mostafa-hamad-dsai/) |
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                      PROJECTS                                   -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -171,6 +213,8 @@ class MostafaMahmoud:
 **Production-Ready ML Framework**
 
 End-to-end diabetes prediction pipeline built for **real systems**, not notebooks. Modular architecture: preprocessing → training → evaluation → deployment.
+
+> 🎯 **74.5% accuracy** | **71.6% Recall on diabetic class** — optimized to minimize missed diagnoses, because in healthcare false negatives cost lives.
 
 <br/>
 
@@ -191,7 +235,9 @@ End-to-end diabetes prediction pipeline built for **real systems**, not notebook
 ### 📰 `Fake News Detector`
 **Bilingual NLP Classification System**
 
-Arabic + English misinformation detection using **TF-IDF** vectorization and classical ML classifiers. Real-world multilingual text processing.
+Arabic + English misinformation detection using **TF-IDF** vectorization and classical ML classifiers. Real-world multilingual text processing with Arabic dialect preprocessing.
+
+> 🎯 **Arabic: 92.6% accuracy** (F1: 91.9%) — **English: 83% accuracy** (F1: 82.7%) — validated via 5-Fold Cross Validation.
 
 <br/>
 
