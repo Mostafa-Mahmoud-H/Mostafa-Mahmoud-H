@@ -68,7 +68,7 @@ class MostafaMahmoud:
 
 <br/>
 
-<img src="https://i.pinimg.com/736x/51/e9/f5/51e9f56167e05d0be510e36ccdd68a75.jpg"
+<img src="https://i.pinimg.com/736x/22/29/29/2229299b41dcff3cb2f627672e9374a8.jpg"
      width="195px"
      style="border-radius:50%; border:4px solid #00f2fe; box-shadow:0 0 25px #00f2fe66;"
      onerror="this.src='https://avatars.githubusercontent.com/u/Mostafa-Mahmoud-H?s=200'"/>
