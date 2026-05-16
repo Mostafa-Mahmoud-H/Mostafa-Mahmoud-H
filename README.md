@@ -68,8 +68,7 @@ class MostafaMahmoud:
 
 <br/>
 
-<img src="[[img0
-/download - 2026-05-16T011527.260.jpeg](https://www.pinterest.com/pin/841680617899472556/)](https://i.pinimg.com/736x/22/29/29/2229299b41dcff3cb2f627672e9374a8.jpg)"
+<img src="https://i.pinimg.com/736x/80/f4/f3/80f4f3796d88835817887e5b22301df6.jpg"
      width="195px"
      style="border-radius:50%; border:4px solid #00f2fe; box-shadow:0 0 25px #00f2fe66;"
      onerror="this.src='https://avatars.githubusercontent.com/u/Mostafa-Mahmoud-H?s=200'"/>
